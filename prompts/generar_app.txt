@@ -1,0 +1,15 @@
+Actúa como un desarrollador Frontend de datos principiante en Python, Streamlit y Plotly Express. Escribe el código completo para `app.py` que cargue el conjunto de datos de "dataset_latam.csv" y muestre un panel de control interactivo. 
+La aplicación debe incluir lo siguiente:
+
+1. Cargar los datos desde la ruta `dataset_latam.csv`
+2. Un título y un subtítulo muy llamativos con emojis, acordes a la temática de los datos.
+
+3. Un checkbox para mostrar/ocultar una vista previa interactiva del DataFrame filtrado (mostrando las primeras 5 a 10 filas).
+
+4. Filtros de estilo dropdown y checkbox para dar interactividad.
+
+5. Tres gráficos altamente interactivos creados con Plotly Express que se actualicen al cambiar los filtros:
+   - Gráfico 1: Un gráfico de barras horizontales o verticales.
+   - Gráfico 2: Un gráfico circular (Pie chart / Donut chart).
+   - Grafico 3: Un histograma
+6. Los gráficos deben tener un diseño estético profesional y usar el ancho completo de la columna donde se ubiquen.

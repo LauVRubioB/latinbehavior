@@ -1,0 +1,1 @@
+desarrolla un codigo en un notebook.ipynb para hacer el analisis exploratorio inicial de los datos y comparar las metricas del dashboard

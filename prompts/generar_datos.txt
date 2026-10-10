@@ -1,0 +1,12 @@
+Hola, Genera un conjunto de datos en formato CSV.
+La temática del conjunto de datos debe ser sobre: social metrics, and economic or digital actions across Latin America.
+El conjunto de datos  debe cumplir con las siguientes directrices:
+
+1. Generar exactamente [150] filas de datos.
+2. Utiliza tu conocimiento del tema para generar el dataset. En caso de no tener información al respecto simula los datos, asegurandote de que contengan patrones de interés.
+3. Contener obligatoriamente las siguientes columnas categoricas, numericas, de fecha y boolenas
+4. Genera los datos separados por comas 
+5. Revisa que los datos sean consistentes y armoniosos
+6. Los datos deben ser útiles para generar un reporte interactivo tipo dashboard.
+7. Agrega suficiente variables para poder hacer graficos de barras, histogramas y scatterplots
+8. Presenta los resultados en formato csv separado por comas listo para copiar y pegar

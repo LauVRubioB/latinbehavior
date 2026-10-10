@@ -1,0 +1,151 @@
+id,fecha,pais,subregion,nivel_ingreso,red_social_dominante,sector_vc_lider,poblacion_millones,pib_per_capita_usd,tasa_desempleo_pct,inflacion_anual_pct,pobreza_pct,penetracion_internet_pct,usuarios_redes_millones,horas_diarias_redes,pagos_digitales_pct,ventas_ecommerce_musd,startups_fintech,velocidad_internet_mbps,inversion_vc_musd,pago_instantaneo,ley_datos_personales
+1,2023-03-31,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,216.4,10100,8.8,5.8,31.6,81.0,158,3.6,52,10800,1230,95,520,true,true
+2,2023-06-30,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,216.5,10180,8.0,3.9,31.2,81.6,159,3.6,54,11300,1245,98,480,true,true
+3,2023-09-30,Brasil,Sudamérica,Medio-alto,WhatsApp,E-commerce,216.6,10270,7.8,5.2,30.8,82.2,160,3.7,56,12100,1262,101,610,true,true
+4,2023-12-31,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,216.7,10360,7.4,4.6,30.3,82.8,161,3.7,58,15200,1280,104,700,true,true
+5,2024-03-31,Brasil,Sudamérica,Medio-alto,WhatsApp,Logística,216.9,10450,7.9,4.5,29.9,83.4,163,3.7,60,12000,1295,108,450,true,true
+6,2024-06-30,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,217.0,10540,7.1,4.2,29.4,84.0,164,3.8,62,12700,1312,112,560,true,true
+7,2024-09-30,Brasil,Sudamérica,Medio-alto,WhatsApp,Salud digital,217.1,10640,6.6,4.4,28.8,84.5,165,3.8,64,13600,1330,115,640,true,true
+8,2024-12-31,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,217.2,10740,6.2,4.8,28.3,85.0,166,3.8,66,17000,1348,119,720,true,true
+9,2025-03-31,Brasil,Sudamérica,Medio-alto,WhatsApp,E-commerce,217.3,10830,6.8,5.1,27.9,85.5,167,3.9,68,13400,1365,122,590,true,true
+10,2025-06-30,Brasil,Sudamérica,Medio-alto,WhatsApp,Fintech,217.4,10920,5.8,5.3,27.5,86.0,168,3.9,69,14100,1380,126,680,true,true
+11,2023-03-31,México,Norteamérica,Medio-alto,WhatsApp,Fintech,129.7,11050,3.4,7.9,36.3,78.6,92,3.2,31,5200,780,52,380,true,true
+12,2023-06-30,México,Norteamérica,Medio-alto,WhatsApp,Fintech,129.8,11100,2.9,6.3,36.0,79.2,93,3.2,33,5500,800,54,420,true,true
+13,2023-09-30,México,Norteamérica,Medio-alto,WhatsApp,Fintech,129.9,11160,3.0,4.6,35.6,79.8,94,3.3,35,5900,820,56,350,true,true
+14,2023-12-31,México,Norteamérica,Medio-alto,WhatsApp,E-commerce,130.0,11230,2.8,4.7,35.2,80.4,95,3.3,37,7400,840,58,510,true,true
+15,2024-03-31,México,Norteamérica,Medio-alto,WhatsApp,Fintech,130.1,11290,2.6,4.5,34.5,81.0,96,3.3,39,6000,865,61,400,true,true
+16,2024-06-30,México,Norteamérica,Medio-alto,WhatsApp,Logística,130.2,11340,2.8,4.8,34.0,81.6,97,3.4,41,6400,885,63,460,true,true
+17,2024-09-30,México,Norteamérica,Medio-alto,WhatsApp,Fintech,130.3,11400,2.9,5.6,33.5,82.2,98,3.4,43,6900,905,66,490,true,true
+18,2024-12-31,México,Norteamérica,Medio-alto,WhatsApp,Fintech,130.4,11470,2.7,4.7,33.1,82.7,99,3.4,45,8600,925,68,540,true,true
+19,2025-03-31,México,Norteamérica,Medio-alto,WhatsApp,Salud digital,130.5,11520,2.6,3.7,32.8,83.2,100,3.5,47,6900,945,71,430,true,true
+20,2025-06-30,México,Norteamérica,Medio-alto,WhatsApp,Fintech,130.6,11580,2.7,4.1,32.4,83.7,101,3.5,49,7300,965,73,500,true,true
+21,2023-03-31,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.2,13700,6.9,104.0,39.2,87.2,36,3.1,38,2400,340,40,140,true,true
+22,2023-06-30,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.2,13650,6.2,114.0,39.8,87.6,36,3.1,40,2500,345,41,120,true,true
+23,2023-09-30,Argentina,Sudamérica,Medio-alto,Instagram,E-commerce,46.3,13500,5.7,138.0,41.1,88.0,36,3.2,42,2700,350,43,160,true,true
+24,2023-12-31,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.3,13300,5.7,211.0,41.7,88.4,37,3.2,44,3500,355,45,210,true,true
+25,2024-03-31,Argentina,Sudamérica,Medio-alto,Instagram,Agritech,46.4,12800,6.9,254.0,50.2,88.8,37,3.2,46,2600,358,46,180,true,true
+26,2024-06-30,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.4,12900,7.6,276.0,52.9,89.2,37,3.3,49,2700,362,48,230,true,true
+27,2024-09-30,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.5,13100,6.9,236.0,47.0,89.6,38,3.3,52,2900,367,50,260,true,true
+28,2024-12-31,Argentina,Sudamérica,Medio-alto,Instagram,Salud digital,46.5,13400,6.4,118.0,38.1,90.0,38,3.3,55,3800,372,52,300,true,true
+29,2025-03-31,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.6,13700,7.9,66.0,33.5,90.4,38,3.3,57,3000,378,54,240,true,true
+30,2025-06-30,Argentina,Sudamérica,Medio-alto,Instagram,Fintech,46.6,13900,7.6,40.0,31.7,90.8,38,3.4,59,3200,384,56,280,true,true
+31,2023-03-31,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.3,6620,10.9,13.3,36.6,73.0,34,3.4,33,2100,420,38,150,false,true
+32,2023-06-30,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.4,6640,10.2,12.4,36.4,73.6,35,3.4,35,2200,430,40,170,false,true
+33,2023-09-30,Colombia,Sudamérica,Medio-alto,WhatsApp,E-commerce,52.4,6660,9.6,11.0,36.1,74.2,35,3.5,37,2400,440,42,140,false,true
+34,2023-12-31,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.5,6680,10.0,9.3,35.8,74.8,35,3.5,39,3000,450,44,190,false,true
+35,2024-03-31,Colombia,Sudamérica,Medio-alto,WhatsApp,Logística,52.6,6700,12.0,7.4,35.4,75.4,36,3.5,41,2300,462,46,180,false,true
+36,2024-06-30,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.6,6740,10.3,7.2,35.0,76.0,36,3.6,43,2450,474,48,160,false,true
+37,2024-09-30,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.7,6790,9.5,6.9,34.6,76.6,37,3.6,45,2650,486,50,210,false,true
+38,2024-12-31,Colombia,Sudamérica,Medio-alto,WhatsApp,Edtech,52.8,6840,9.9,5.2,34.2,77.2,37,3.6,47,3300,498,52,230,false,true
+39,2025-03-31,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.8,6890,11.6,5.1,33.8,77.8,37,3.7,49,2600,510,54,200,false,true
+40,2025-06-30,Colombia,Sudamérica,Medio-alto,WhatsApp,Fintech,52.9,6950,9.0,5.1,33.4,78.4,38,3.7,51,2750,522,56,240,false,true
+41,2023-03-31,Chile,Sudamérica,Alto,Instagram,Fintech,19.6,17250,8.7,11.9,10.2,90.0,16,3.0,55,1700,310,215,120,false,false
+42,2023-06-30,Chile,Sudamérica,Alto,Instagram,Fintech,19.6,17300,8.8,8.7,10.0,90.4,16,3.0,57,1800,316,222,100,false,false
+43,2023-09-30,Chile,Sudamérica,Alto,Instagram,Agritech,19.7,17350,8.3,5.1,9.9,90.8,16,3.1,59,1900,322,230,140,false,false
+44,2023-12-31,Chile,Sudamérica,Alto,Instagram,Fintech,19.7,17420,8.5,3.9,9.8,91.2,16,3.1,61,2400,329,238,160,false,false
+45,2024-03-31,Chile,Sudamérica,Alto,Instagram,Fintech,19.7,17480,8.5,3.7,9.6,91.6,16,3.1,63,1900,336,246,150,true,false
+46,2024-06-30,Chile,Sudamérica,Alto,Instagram,E-commerce,19.8,17560,8.3,4.1,9.4,92.0,17,3.2,65,2000,342,254,180,true,false
+47,2024-09-30,Chile,Sudamérica,Alto,Instagram,Fintech,19.8,17640,8.9,4.2,9.3,92.3,17,3.2,67,2100,349,262,170,true,false
+48,2024-12-31,Chile,Sudamérica,Alto,Instagram,Salud digital,19.8,17720,8.5,4.5,9.1,92.6,17,3.2,69,2650,356,270,210,true,false
+49,2025-03-31,Chile,Sudamérica,Alto,Instagram,Fintech,19.9,17800,8.4,4.5,9.0,92.9,17,3.2,70,2100,363,278,190,true,true
+50,2025-06-30,Chile,Sudamérica,Alto,Instagram,Fintech,19.9,17880,8.9,4.4,8.9,93.2,17,3.3,72,2200,370,285,220,true,true
+51,2023-03-31,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.0,7260,6.8,8.0,29.0,71.0,22,3.5,29,900,190,28,60,true,true
+52,2023-06-30,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.1,7290,7.1,6.5,28.8,71.8,22,3.5,32,950,196,30,70,true,true
+53,2023-09-30,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.1,7320,6.6,5.0,28.5,72.6,22,3.5,35,1000,202,32,55,true,true
+54,2023-12-31,Perú,Sudamérica,Medio-alto,Facebook,E-commerce,34.2,7360,6.2,3.2,27.9,73.4,23,3.6,38,1300,208,34,80,true,true
+55,2024-03-31,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.2,7400,6.5,3.3,27.6,74.2,23,3.6,42,1050,215,36,75,true,true
+56,2024-06-30,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.3,7450,6.4,2.3,27.3,75.0,23,3.6,45,1100,222,38,90,true,true
+57,2024-09-30,Perú,Sudamérica,Medio-alto,Facebook,Agritech,34.3,7500,5.8,2.1,27.0,75.8,24,3.7,48,1200,229,40,85,true,true
+58,2024-12-31,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.4,7560,5.4,2.0,26.8,76.5,24,3.7,51,1500,236,43,110,true,true
+59,2025-03-31,Perú,Sudamérica,Medio-alto,Facebook,Fintech,34.4,7610,5.8,1.4,26.5,77.2,24,3.7,54,1200,243,45,95,true,true
+60,2025-06-30,Perú,Sudamérica,Medio-alto,Facebook,Edtech,34.5,7660,5.6,1.7,26.2,77.9,24,3.8,56,1300,250,47,120,true,true
+61,2023-03-31,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.2,6480,3.9,2.4,26.0,67.0,11,3.4,22,480,95,26,25,false,true
+62,2023-06-30,Ecuador,Sudamérica,Medio-alto,Facebook,E-commerce,18.2,6470,3.5,2.2,26.3,67.8,11,3.4,24,500,98,28,20,false,true
+63,2023-09-30,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.3,6480,3.8,1.9,26.6,68.6,11,3.5,26,540,101,30,30,false,true
+64,2023-12-31,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.3,6500,3.4,1.5,26.0,69.4,11,3.5,28,690,104,32,35,false,true
+65,2024-03-31,Ecuador,Sudamérica,Medio-alto,Facebook,Logística,18.3,6510,3.6,1.4,26.3,70.2,12,3.5,30,560,108,34,28,false,true
+66,2024-06-30,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.4,6520,3.7,1.5,26.7,71.0,12,3.6,32,580,111,36,32,false,true
+67,2024-09-30,Ecuador,Sudamérica,Medio-alto,Facebook,Edtech,18.4,6540,3.4,1.2,27.0,71.8,12,3.6,34,620,115,38,40,false,true
+68,2024-12-31,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.4,6560,3.5,0.5,26.6,72.5,12,3.6,36,780,119,40,38,false,true
+69,2025-03-31,Ecuador,Sudamérica,Medio-alto,Facebook,Fintech,18.5,6590,3.2,0.9,26.2,73.2,12,3.7,38,630,123,42,35,false,true
+70,2025-06-30,Ecuador,Sudamérica,Medio-alto,Facebook,E-commerce,18.5,6620,3.4,1.1,25.9,73.9,12,3.7,40,660,127,44,45,false,true
+71,2023-03-31,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22100,7.8,8.2,9.9,90.0,2.8,3.1,48,260,85,120,18,false,true
+72,2023-06-30,Uruguay,Sudamérica,Alto,Instagram,Agritech,3.5,22150,7.4,6.0,9.7,90.5,2.8,3.1,50,270,87,126,22,false,true
+73,2023-09-30,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22200,7.0,5.0,9.5,91.0,2.9,3.2,52,290,89,132,20,false,true
+74,2023-12-31,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22300,7.5,5.1,9.3,91.5,2.9,3.2,54,370,91,138,28,false,true
+75,2024-03-31,Uruguay,Sudamérica,Alto,Instagram,Edtech,3.5,22350,7.3,4.8,9.1,92.0,2.9,3.2,56,300,93,144,25,false,true
+76,2024-06-30,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22400,7.2,4.7,9.0,92.4,2.9,3.3,58,310,95,150,30,false,true
+77,2024-09-30,Uruguay,Sudamérica,Alto,Instagram,Agritech,3.5,22500,6.7,5.5,8.9,92.8,2.9,3.3,60,330,98,156,27,false,true
+78,2024-12-31,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22600,7.0,5.2,8.8,93.2,3.0,3.3,62,410,100,162,35,false,true
+79,2025-03-31,Uruguay,Sudamérica,Alto,Instagram,Fintech,3.5,22700,7.2,5.3,8.7,93.6,3.0,3.3,63,330,103,168,32,false,true
+80,2025-06-30,Uruguay,Sudamérica,Alto,Instagram,Salud digital,3.5,22800,6.8,4.6,8.5,94.0,3.0,3.4,65,340,105,174,38,false,true
+81,2023-03-31,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.2,14400,9.8,0.2,23.0,83.0,3.9,3.3,40,320,70,70,15,true,true
+82,2023-06-30,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.2,14480,9.6,-0.4,22.9,83.7,3.9,3.3,43,330,72,74,18,true,true
+83,2023-09-30,Costa Rica,Centroamérica,Medio-alto,WhatsApp,E-commerce,5.2,14560,9.1,-0.9,22.7,84.4,3.9,3.4,46,350,74,78,14,true,true
+84,2023-12-31,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.2,14650,8.6,-1.4,22.3,85.1,4.0,3.4,49,440,76,82,22,true,true
+85,2024-03-31,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Salud digital,5.2,14740,8.9,-1.0,21.9,85.8,4.0,3.4,52,360,79,86,20,true,true
+86,2024-06-30,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.2,14830,8.2,-0.6,21.6,86.4,4.0,3.5,55,375,81,90,25,true,true
+87,2024-09-30,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.2,14920,7.9,-0.2,21.5,87.0,4.1,3.5,58,395,84,94,23,true,true
+88,2024-12-31,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Edtech,5.3,15010,6.9,0.8,21.2,87.6,4.1,3.5,60,495,86,98,30,true,true
+89,2025-03-31,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.3,15100,7.4,1.4,20.9,88.2,4.1,3.6,62,400,89,102,26,true,true
+90,2025-06-30,Costa Rica,Centroamérica,Medio-alto,WhatsApp,Fintech,5.3,15200,7.2,0.3,20.6,88.8,4.2,3.6,64,415,92,106,32,true,true
+91,2023-03-31,Panamá,Centroamérica,Alto,Instagram,Fintech,4.4,18950,7.4,1.5,20.0,79.0,3.1,3.2,36,210,55,62,12,false,true
+92,2023-06-30,Panamá,Centroamérica,Alto,Instagram,Logística,4.4,19000,7.6,1.1,19.9,79.7,3.1,3.2,38,215,56,65,10,false,true
+93,2023-09-30,Panamá,Centroamérica,Alto,Instagram,Fintech,4.4,19050,7.5,0.9,19.8,80.4,3.2,3.2,40,230,58,68,14,false,true
+94,2023-12-31,Panamá,Centroamérica,Alto,Instagram,Fintech,4.4,19100,7.4,0.7,19.6,81.1,3.2,3.3,42,290,60,71,16,false,true
+95,2024-03-31,Panamá,Centroamérica,Alto,Instagram,E-commerce,4.5,19000,7.8,0.2,19.5,81.8,3.2,3.3,44,235,61,74,12,false,true
+96,2024-06-30,Panamá,Centroamérica,Alto,Instagram,Fintech,4.5,18950,8.0,0.0,19.4,82.5,3.3,3.3,46,240,63,77,15,false,true
+97,2024-09-30,Panamá,Centroamérica,Alto,Instagram,Logística,4.5,19000,8.2,-0.1,19.4,83.1,3.3,3.4,48,250,65,80,13,false,true
+98,2024-12-31,Panamá,Centroamérica,Alto,Instagram,Fintech,4.5,19060,8.3,-0.1,19.3,83.7,3.3,3.4,50,315,67,83,18,false,true
+99,2025-03-31,Panamá,Centroamérica,Alto,Instagram,Salud digital,4.5,19120,8.4,-0.2,19.2,84.3,3.4,3.4,52,255,69,86,16,false,true
+100,2025-06-30,Panamá,Centroamérica,Alto,Instagram,Fintech,4.5,19200,8.5,-0.1,19.1,84.9,3.4,3.5,54,260,71,89,19,false,true
+101,2023-03-31,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,6.8,6050,6.5,5.0,24.0,76.0,4.6,3.6,24,170,40,30,6,false,false
+102,2023-06-30,Paraguay,Sudamérica,Medio-alto,WhatsApp,Agritech,6.8,6100,6.1,4.2,23.8,76.8,4.7,3.6,26,175,41,32,5,false,false
+103,2023-09-30,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,6.8,6150,5.8,3.9,23.6,77.6,4.7,3.7,28,190,43,34,8,false,false
+104,2023-12-31,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,6.9,6200,5.5,3.6,23.3,78.4,4.8,3.7,30,240,44,36,9,false,false
+105,2024-03-31,Paraguay,Sudamérica,Medio-alto,WhatsApp,Agritech,6.9,6280,5.7,3.7,23.0,79.2,4.8,3.7,32,195,46,38,7,false,false
+106,2024-06-30,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,6.9,6360,5.5,4.0,22.7,80.0,4.9,3.8,34,205,48,40,10,false,false
+107,2024-09-30,Paraguay,Sudamérica,Medio-alto,WhatsApp,E-commerce,6.9,6430,5.3,3.9,22.4,80.7,4.9,3.8,36,220,50,43,9,false,false
+108,2024-12-31,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,7.0,6500,5.1,3.8,22.1,81.4,5.0,3.8,38,275,52,45,12,false,false
+109,2025-03-31,Paraguay,Sudamérica,Medio-alto,WhatsApp,Agritech,7.0,6570,5.4,3.7,21.8,82.1,5.0,3.9,40,225,54,47,10,false,false
+110,2025-06-30,Paraguay,Sudamérica,Medio-alto,WhatsApp,Fintech,7.0,6640,5.2,3.5,21.5,82.8,5.1,3.9,42,235,56,50,13,false,false
+111,2023-03-31,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.3,3620,3.5,2.9,37.0,66.0,7.3,3.7,18,140,28,15,3,false,false
+112,2023-06-30,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.3,3630,3.7,2.6,36.8,67.0,7.5,3.7,20,145,29,16,2,false,false
+113,2023-09-30,Bolivia,Sudamérica,Medio-bajo,TikTok,Edtech,12.4,3640,3.5,2.2,36.7,68.0,7.6,3.8,22,155,30,18,4,false,false
+114,2023-12-31,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.4,3640,3.4,2.1,36.5,69.0,7.7,3.8,24,195,31,20,5,false,false
+115,2024-03-31,Bolivia,Sudamérica,Medio-bajo,TikTok,Agritech,12.5,3630,3.6,2.4,36.4,70.0,7.9,3.8,26,160,33,22,3,false,false
+116,2024-06-30,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.5,3620,3.7,3.2,36.3,71.0,8.0,3.9,28,165,34,24,4,false,false
+117,2024-09-30,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.5,3600,3.5,4.7,36.6,71.8,8.1,3.9,30,175,35,26,3,false,false
+118,2024-12-31,Bolivia,Sudamérica,Medio-bajo,TikTok,E-commerce,12.6,3580,3.8,5.1,37.0,72.6,8.2,3.9,32,215,36,28,5,false,false
+119,2025-03-31,Bolivia,Sudamérica,Medio-bajo,TikTok,Fintech,12.6,3560,3.9,9.8,37.4,73.3,8.3,4.0,33,170,37,30,2,false,false
+120,2025-06-30,Bolivia,Sudamérica,Medio-bajo,TikTok,Edtech,12.7,3540,3.8,15.2,37.9,74.0,8.4,4.0,34,170,38,32,3,false,false
+121,2023-03-31,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,17.8,5640,2.6,7.9,55.0,55.0,8.8,3.5,15,260,45,22,8,false,false
+122,2023-06-30,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,17.9,5680,2.5,6.5,54.9,56.5,9.0,3.5,17,270,46,24,10,false,false
+123,2023-09-30,Guatemala,Centroamérica,Medio-alto,Facebook,E-commerce,17.9,5720,2.7,5.0,54.7,58.0,9.3,3.6,19,290,48,26,9,false,false
+124,2023-12-31,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,18.0,5770,2.4,4.2,54.5,59.5,9.5,3.6,21,360,50,28,12,false,false
+125,2024-03-31,Guatemala,Centroamérica,Medio-alto,Facebook,Logística,18.1,5810,2.5,3.8,54.2,61.0,9.8,3.6,23,295,52,30,10,false,false
+126,2024-06-30,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,18.1,5850,2.5,3.5,54.0,62.5,10.1,3.7,25,305,54,32,13,false,false
+127,2024-09-30,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,18.2,5900,2.4,3.0,53.7,64.0,10.4,3.7,27,325,56,34,12,false,false
+128,2024-12-31,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,18.3,5950,2.4,1.9,53.5,65.5,10.7,3.7,29,410,58,36,16,false,false
+129,2025-03-31,Guatemala,Centroamérica,Medio-alto,Facebook,Edtech,18.3,6000,2.5,1.7,53.3,67.0,11.0,3.8,31,335,61,38,14,false,false
+130,2025-06-30,Guatemala,Centroamérica,Medio-alto,Facebook,Fintech,18.4,6050,2.4,2.0,53.0,68.5,11.3,3.8,33,350,63,40,17,false,false
+131,2023-03-31,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.3,10950,5.4,7.4,20.5,80.0,8.1,3.4,28,190,48,45,10,false,true
+132,2023-06-30,República Dominicana,Caribe,Medio-alto,Instagram,E-commerce,11.3,11000,5.3,5.5,20.3,80.7,8.2,3.4,30,200,50,48,9,false,true
+133,2023-09-30,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.4,11060,5.1,4.7,20.1,81.4,8.3,3.5,32,215,52,51,12,false,true
+134,2023-12-31,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.4,11120,5.3,3.6,19.8,82.1,8.4,3.5,34,270,54,54,14,false,true
+135,2024-03-31,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.4,11200,5.1,3.4,19.6,82.8,8.5,3.5,36,220,56,57,11,false,true
+136,2024-06-30,República Dominicana,Caribe,Medio-alto,Instagram,Logística,11.5,11280,5.5,3.3,19.4,83.5,8.6,3.6,38,230,58,60,14,false,true
+137,2024-09-30,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.5,11360,5.2,3.4,19.2,84.2,8.7,3.6,40,245,61,63,13,false,true
+138,2024-12-31,República Dominicana,Caribe,Medio-alto,Instagram,Salud digital,11.5,11440,5.0,3.3,19.0,84.8,8.8,3.6,42,305,63,66,17,false,true
+139,2025-03-31,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.6,11520,5.4,3.5,18.8,85.4,8.9,3.7,44,250,66,69,15,false,true
+140,2025-06-30,República Dominicana,Caribe,Medio-alto,Instagram,Fintech,11.6,11600,5.2,3.6,18.6,86.0,9.0,3.7,46,260,68,72,18,false,true
+141,2023-03-31,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.4,3500,5.5,440.0,66.0,58.0,14.8,3.4,20,120,22,9,2,false,false
+142,2023-06-30,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.4,3550,5.6,405.0,65.5,58.8,15.0,3.4,22,125,22,10,3,false,false
+143,2023-09-30,Venezuela,Sudamérica,Medio-bajo,WhatsApp,E-commerce,28.5,3600,5.8,350.0,65.0,59.6,15.3,3.5,24,135,23,11,2,false,false
+144,2023-12-31,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.5,3650,5.4,190.0,64.5,60.4,15.5,3.5,26,170,24,12,4,false,false
+145,2024-03-31,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.5,3700,5.3,120.0,64.0,61.2,15.7,3.5,28,140,25,14,3,false,false
+146,2024-06-30,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Edtech,28.6,3740,5.2,70.0,63.5,62.0,16.0,3.5,30,145,25,15,3,false,false
+147,2024-09-30,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.6,3780,5.0,48.0,63.0,62.8,16.2,3.6,32,150,26,16,4,false,false
+148,2024-12-31,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.6,3800,5.1,48.0,62.5,63.6,16.4,3.6,34,185,27,17,3,false,false
+149,2025-03-31,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Logística,28.7,3820,5.0,80.0,62.0,64.4,16.7,3.6,35,150,28,18,4,false,false
+150,2025-06-30,Venezuela,Sudamérica,Medio-bajo,WhatsApp,Fintech,28.7,3830,5.2,130.0,61.5,65.2,16.9,3.7,36,155,28,19,5,false,false
