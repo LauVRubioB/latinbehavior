@@ -34,18 +34,8 @@ Necesitas **Python** instalado y acceso a una terminal.
 
 2. **Crea y activa un entorno virtual** para mantener aisladas las dependencias:
 
-   En Windows (PowerShell):
-
-   ```powershell
-   py -m venv .venv
-   .\.venv\Scripts\Activate.ps1
    ```
-
-   En macOS o Linux:
-
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
+   python -m virtualenv .venv
    ```
 
 3. **Instala las dependencias** desde `requirements.txt`:
