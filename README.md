@@ -4,6 +4,8 @@
 
 **LatAm Digital Pulse** es un dashboard web que explora indicadores económicos, sociales y digitales de 15 países latinoamericanos entre **2023 y 2025**. Filtra los datos por año, subregión y nivel de ingreso, y convierte la información en gráficos interactivos para comparar tendencias y descubrir patrones.
 
+###**Enlace de la pagina:** https://latinbehavior.onrender.com/
+
 > 📊 Explora los datos, compara países y transforma indicadores en nuevas preguntas.
 >
 > *Los datos incluidos son simulados y tienen fines educativos.*
